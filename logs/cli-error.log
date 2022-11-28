@@ -1,0 +1,14 @@
+2022-09-22 17:31:09 Error: [RuntimeException] Unknown command `cake model`. Run `cake --help` to get the list of valid commands. in M:\Dev\CakePHPProjects\project2\vendor\cakephp\cakephp\src\Console\CommandRunner.php on line 346
+Stack Trace:
+#0 M:\Dev\CakePHPProjects\project2\vendor\cakephp\cakephp\src\Console\CommandRunner.php(157): Cake\Console\CommandRunner->resolveName(Object(Cake\Console\CommandCollection), Object(Cake\Console\ConsoleIo), 'model')
+#1 M:\Dev\CakePHPProjects\project2\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#2 {main}
+
+
+2022-09-22 17:32:24 Error: [RuntimeException] Unknown command `cake model`. Run `cake --help` to get the list of valid commands. in M:\Dev\CakePHPProjects\project2\vendor\cakephp\cakephp\src\Console\CommandRunner.php on line 346
+Stack Trace:
+#0 M:\Dev\CakePHPProjects\project2\vendor\cakephp\cakephp\src\Console\CommandRunner.php(157): Cake\Console\CommandRunner->resolveName(Object(Cake\Console\CommandCollection), Object(Cake\Console\ConsoleIo), 'model')
+#1 M:\Dev\CakePHPProjects\project2\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#2 {main}
+
+
